@@ -1,4 +1,4 @@
-package one
+package mono_repo
 
 import "fmt"
 
